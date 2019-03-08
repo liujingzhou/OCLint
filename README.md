@@ -1,2 +1,2 @@
 # OCLint
-在Xcode中集成OCLintj检测代码质量
+在Xcode中集成OCLint检测代码质量
